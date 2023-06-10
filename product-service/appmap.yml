@@ -1,0 +1,3 @@
+name: product-service
+packages:
+- path: com.ashdev.productservice
